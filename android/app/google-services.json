@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "182752416345",
+    "project_id": "tastify-flutter",
+    "storage_bucket": "tastify-flutter.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182752416345:android:3842ee678d8e40d7b2d748",
+        "android_client_info": {
+          "package_name": "com.example.tastify_food_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVykqxHyFw-8oERwKXhOXaknQ-p42ECnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
